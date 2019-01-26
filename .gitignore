@@ -75,5 +75,3 @@ HouseHunter/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 HouseHunter/DerivedDataCache/*
-
-HouseHunter/Saved/*
