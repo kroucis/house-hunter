@@ -749,3 +749,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-17.15.24:344][825]BlueprintLog: New page: Compile MainMenu
 [2019.01.26-17.15.26:042][920]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/MainMenu3FB86A104DA6880921828A919D25025C.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Levels/MainMenu/UI/MainMenu.uasset'
 [2019.01.26-17.15.27:115][984]BlueprintLog: New page: Compile MainMenu
+[2019.01.26-17.23.57:641][548]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainMenu/MainMenu' took 0.056
+[2019.01.26-17.36.58:147][891]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.26-17.37.07:744][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Components/HealthComponent.HealthComponent
+[2019.01.26-17.37.28:353][680]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.37.39:008][313]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.26-17.37.44:536][643]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.37.47:365][806]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent58BE0999449B3C2F761BE4B982F8C45A.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.37.56:900][378]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.37.58:716][480]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent5C5D9BAB4AED8476FEE9508ECF001380.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.38.05:894][909]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.38.06:791][958]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent56835EE0415D3ACCBE1C39A65E9CB8D7.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.38.17:427][592]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.38.52:367][676]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.39.16:548][109]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.39.19:047][255]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.40.21:473][984]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.40.22:462][ 37]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent1D58204F480DA6933B0F7C9492368F29.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.40.59:028][225]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent4A44DB9B4F286C3DD63D3FAAECC1BACA.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.41.34:032][322]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent1B2F152C4E1F5728280608A9965ABAAA.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.42.09:474][442]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.42.11:450][554]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent9EB5BC0C483D2FF3DEC3C4B1D03520E3.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.42.53:480][ 71]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.42.55:673][194]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponentB86A54F14FEB6C67A414B69030CD9840.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.43.22:982][542]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.43.25:335][676]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponentF14316374F78F32F57B24EACC7F370B1.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
+[2019.01.26-17.43.33:664][170]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.44.37:480][972]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.44.38:457][ 26]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.45.12:746][ 77]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.45.29:017][ 42]BlueprintLog: New page: Compile HealthComponent
+[2019.01.26-17.45.30:102][100]LogSavePackage: Moving '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Saved/HealthComponent1866B84A411DC363DEF256AFF01C3F3C.tmp' to '../../../../../../Users/Sound/Documents/Unreal Projects/house-hunter/HouseHunter/Content/Components/HealthComponent.uasset'
