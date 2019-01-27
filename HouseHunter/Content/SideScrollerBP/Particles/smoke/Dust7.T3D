@@ -1,0 +1,12 @@
+Begin Object Class=/Script/Engine.Texture2D Name="Dust7"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   Source=(Id=7CE11E2F4E6EED0C0C6764B8EA7A9397,SizeX=126,SizeY=128,NumSlices=1,NumMips=1,Format=TSF_G8)
+   LightingGuid=B06CA96E46EE8E2DCDAF71A93E59EA3D
+   AssetImportData=AssetImportData'"AssetImportData"'
+   AlphaCoverageThresholds=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)
+   MipGenSettings=TMGS_NoMipmaps
+   NeverStream=True
+End Object
